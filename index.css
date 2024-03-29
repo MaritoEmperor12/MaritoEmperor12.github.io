@@ -40,20 +40,20 @@ span{
 .icono1{
     vertical-align: middle;
     margin-right: 5px;
-    width: 256px; /* ancho */
-    height: 256px; /* Largo */
+    width: 160px; /* ancho */
+    height: auto; /* Largo */
   }
 .icono2{
     vertical-align: middle;
     margin-right: 5px;
-    max-width: 100px; /* Ajusta el ancho máximo deseado */
+    max-width: 90px; /* Ajusta el ancho máximo deseado */
     height: auto; /* Largo */
   }
 .icono3{
     vertical-align: middle;
     margin-right: 5px;
     max-width: auto; /* Ajusta el ancho máximo deseado */
-    height: 150px; /* Largo */
+    height: 100px; /* Largo */
   }
 .calaca1{
     float: left;
